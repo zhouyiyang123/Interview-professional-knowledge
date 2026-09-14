@@ -1,2 +1,19 @@
-# Interview-professional-knowledge
-A summary of some common professional knowledge encountered during interviews
+# Interview Professional Knowledge
+
+面试常见专业知识整理目录。
+
+## C++语法题和内存管理
+
+- [语言特性与内存管理](语言特性与内存管理.md)
+
+## 操作系统
+
+- [死锁](死锁.md)
+
+## 计算机网络
+
+暂无
+
+## 数据结构
+
+暂无
